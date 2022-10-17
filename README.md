@@ -1,3 +1,2 @@
 # odin-recipes
-Git opettelujuttuja
-Html koodaushommia etc.
+ruokareseptejä nettisivu harjottelu.
